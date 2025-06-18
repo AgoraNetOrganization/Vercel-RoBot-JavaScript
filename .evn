@@ -1,0 +1,4 @@
+BOT_TOKEN=1234567890:aksjmmdeskame13shhhdfhcffFRF
+BASE_URL=https://your-website.vercel.app
+MONGO_URI=mongodb+srv://{username}:{password}@{cluster_name}.{cluster_id}.mongodb.net/?retryWrites=true&w=majority&appName={cluster_name}
+OWNER_ID=1234567890
